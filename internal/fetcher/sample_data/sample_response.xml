@@ -1,0 +1,387 @@
+<response>
+    <header>
+        <resultCode>00</resultCode>
+        <resultMsg>NORMAL SERVICE.</resultMsg>
+    </header>
+    <body>
+        <items>
+            <item>
+                <accDefRate>3.9193080566</accDefRate>
+                <accExamCnt>210144</accExamCnt>
+                <accExamCompCnt>191692</accExamCompCnt>
+                <careCnt>7165</careCnt>
+                <clearCnt>247</clearCnt>
+                <createDt>2020-03-10 10:20:27.27</createDt>
+                <deathCnt>54</deathCnt>
+                <decideCnt>7513</decideCnt>
+                <examCnt>18452</examCnt>
+                <resutlNegCnt>184179</resutlNegCnt>
+                <seq>69</seq>
+                <stateDt>20200310</stateDt>
+                <stateTime>00:00</stateTime>
+                <updateDt>2020-03-10 10:20:27.27</updateDt>
+            </item>
+            <item>
+                <accDefRate>4.1203393614</accDefRate>
+                <accExamCnt>196618</accExamCnt>
+                <accExamCompCnt>179160</accExamCompCnt>
+                <careCnt>6954</careCnt>
+                <clearCnt>166</clearCnt>
+                <createDt>2020-03-09 10:47:15.15</createDt>
+                <deathCnt>51</deathCnt>
+                <decideCnt>7382</decideCnt>
+                <examCnt>17458</examCnt>
+                <resutlNegCnt>171778</resutlNegCnt>
+                <seq>68</seq>
+                <stateDt>20200309</stateDt>
+                <stateTime>00:00</stateTime>
+                <updateDt>2020-03-09 10:47:15.15</updateDt>
+            </item>
+            <item>
+                <accDefRate>4.2177578602</accDefRate>
+                <accExamCnt>188518</accExamCnt>
+                <accExamCompCnt>169142</accExamCompCnt>
+                <careCnt>6605</careCnt>
+                <clearCnt>130</clearCnt>
+                <createDt>2020-03-08 11:16:27.27</createDt>
+                <deathCnt>50</deathCnt>
+                <decideCnt>7134</decideCnt>
+                <examCnt>19376</examCnt>
+                <resutlNegCnt>162008</resutlNegCnt>
+                <seq>67</seq>
+                <stateDt>20200308</stateDt>
+                <stateTime>00:00</stateTime>
+                <updateDt>2020-03-08 11:16:27.27</updateDt>
+            </item>
+            <item>
+                <accDefRate>4.2675428362</accDefRate>
+                <accExamCnt>178189</accExamCnt>
+                <accExamCompCnt>158569</accExamCompCnt>
+                <careCnt>6134</careCnt>
+                <clearCnt>118</clearCnt>
+                <createDt>2020-03-07 11:00:45.45</createDt>
+                <deathCnt>44</deathCnt>
+                <decideCnt>6767</decideCnt>
+                <examCnt>19620</examCnt>
+                <resutlNegCnt>151802</resutlNegCnt>
+                <seq>66</seq>
+                <stateDt>20200307</stateDt>
+                <stateTime>00:00</stateTime>
+                <updateDt>2020-03-07 11:00:45.45</updateDt>
+            </item>
+            <item>
+                <accDefRate>4.3972345844</accDefRate>
+                <accExamCnt>164740</accExamCnt>
+                <accExamCompCnt>142908</accExamCompCnt>
+                <careCnt>5643</careCnt>
+                <clearCnt>108</clearCnt>
+                <createDt>2020-03-06 12:55:44.44</createDt>
+                <deathCnt>42</deathCnt>
+                <decideCnt>6284</decideCnt>
+                <examCnt>21832</examCnt>
+                <resutlNegCnt>136624</resutlNegCnt>
+                <seq>65</seq>
+                <stateDt>20200306</stateDt>
+                <stateTime>00:00</stateTime>
+                <updateDt>2020-03-06 12:55:44.44</updateDt>
+            </item>
+            <item>
+                <accDefRate>4.6227481540</accDefRate>
+                <accExamCnt>146541</accExamCnt>
+                <accExamCompCnt>124731</accExamCompCnt>
+                <careCnt>5255</careCnt>
+                <clearCnt>88</clearCnt>
+                <createDt>2020-03-05 10:15:12.12</createDt>
+                <deathCnt>35</deathCnt>
+                <decideCnt>5766</decideCnt>
+                <examCnt>21810</examCnt>
+                <resutlNegCnt>118965</resutlNegCnt>
+                <seq>64</seq>
+                <stateDt>20200305</stateDt>
+                <stateTime>00:00</stateTime>
+                <updateDt>2020-03-05 10:15:12.12</updateDt>
+            </item>
+            <item>
+                <accDefRate>4.9199855946</accDefRate>
+                <accExamCnt>136707</accExamCnt>
+                <accExamCompCnt>108293</accExamCompCnt>
+                <careCnt>4750</careCnt>
+                <clearCnt>41</clearCnt>
+                <createDt>2020-03-04 10:21:44.44</createDt>
+                <deathCnt>32</deathCnt>
+                <decideCnt>5328</decideCnt>
+                <examCnt>28414</examCnt>
+                <resutlNegCnt>102965</resutlNegCnt>
+                <seq>63</seq>
+                <stateDt>20200304</stateDt>
+                <stateTime>00:00</stateTime>
+                <updateDt>2020-03-04 10:21:44.44</updateDt>
+            </item>
+            <item>
+                <accDefRate>5.3291397182</accDefRate>
+                <accExamCnt>125851</accExamCnt>
+                <accExamCompCnt>90296</accExamCompCnt>
+                <careCnt>4159</careCnt>
+                <clearCnt>34</clearCnt>
+                <createDt>2020-03-03 10:46:53.53</createDt>
+                <deathCnt>28</deathCnt>
+                <decideCnt>4812</decideCnt>
+                <examCnt>35555</examCnt>
+                <resutlNegCnt>85484</resutlNegCnt>
+                <seq>62</seq>
+                <stateDt>20200303</stateDt>
+                <stateTime>00:00</stateTime>
+                <updateDt>2020-03-03 10:46:53.53</updateDt>
+            </item>
+            <item>
+                <accDefRate>5.5573147561</accDefRate>
+                <accExamCnt>109591</accExamCnt>
+                <accExamCompCnt>75792</accExamCompCnt>
+                <clearCnt>31</clearCnt>
+                <createDt>2020-03-02 10:52:38.38</createDt>
+                <deathCnt>22</deathCnt>
+                <decideCnt>4212</decideCnt>
+                <examCnt>33799</examCnt>
+                <resutlNegCnt>71580</resutlNegCnt>
+                <seq>61</seq>
+                <stateDt>20200302</stateDt>
+                <stateTime>00:00</stateTime>
+                <updateDt>2020-03-02 10:52:38.38</updateDt>
+            </item>
+            <item>
+                <clearCnt>30</clearCnt>
+                <createDt>2020-03-01 17:41:45.45</createDt>
+                <deathCnt>18</deathCnt>
+                <decideCnt>3736</decideCnt>
+                <examCnt>33360</examCnt>
+                <seq>60</seq>
+                <stateDt>20200301</stateDt>
+                <stateTime>16:00</stateTime>
+                <updateDt>2020-03-01 17:41:45.45</updateDt>
+            </item>
+            <item>
+                <clearCnt>28</clearCnt>
+                <createDt>2020-02-29 17:16:20.20</createDt>
+                <deathCnt>17</deathCnt>
+                <decideCnt>3150</decideCnt>
+                <examCnt>35182</examCnt>
+                <seq>58</seq>
+                <stateDt>20200229</stateDt>
+                <stateTime>16:00</stateTime>
+                <updateDt>2020-02-29 17:16:20.20</updateDt>
+            </item>
+            <item>
+                <clearCnt>27</clearCnt>
+                <createDt>2020-02-28 17:01:59.59</createDt>
+                <deathCnt>13</deathCnt>
+                <decideCnt>2337</decideCnt>
+                <examCnt>30237</examCnt>
+                <seq>56</seq>
+                <stateDt>20200228</stateDt>
+                <stateTime>16:00</stateTime>
+                <updateDt>2020-02-28 17:01:59.59</updateDt>
+            </item>
+            <item>
+                <clearCnt>26</clearCnt>
+                <createDt>2020-02-27 17:32:06.06</createDt>
+                <deathCnt>13</deathCnt>
+                <decideCnt>1766</decideCnt>
+                <examCnt>25568</examCnt>
+                <seq>54</seq>
+                <stateDt>20200227</stateDt>
+                <stateTime>16:00</stateTime>
+                <updateDt>2020-02-27 17:32:06.06</updateDt>
+            </item>
+            <item>
+                <clearCnt>24</clearCnt>
+                <createDt>2020-02-26 17:00:43.43</createDt>
+                <deathCnt>12</deathCnt>
+                <decideCnt>1261</decideCnt>
+                <examCnt>20716</examCnt>
+                <seq>52</seq>
+                <stateDt>20200226</stateDt>
+                <stateTime>16:00</stateTime>
+                <updateDt>2020-02-26 17:00:43.43</updateDt>
+            </item>
+            <item>
+                <clearCnt>22</clearCnt>
+                <createDt>2020-02-25 17:02:03.03</createDt>
+                <deathCnt>10</deathCnt>
+                <decideCnt>977</decideCnt>
+                <examCnt>13880</examCnt>
+                <seq>50</seq>
+                <stateDt>20200225</stateDt>
+                <stateTime>16:00</stateTime>
+                <updateDt>2020-02-25 17:02:03.03</updateDt>
+            </item>
+            <item>
+                <clearCnt>22</clearCnt>
+                <createDt>2020-02-24 17:03:50.50</createDt>
+                <deathCnt>7</deathCnt>
+                <decideCnt>833</decideCnt>
+                <examCnt>11631</examCnt>
+                <seq>48</seq>
+                <stateDt>20200224</stateDt>
+                <stateTime>16:00</stateTime>
+                <updateDt>2020-02-24 17:03:50.50</updateDt>
+            </item>
+            <item>
+                <clearCnt>18</clearCnt>
+                <createDt>2020-02-23 17:05:12.12</createDt>
+                <deathCnt>5</deathCnt>
+                <decideCnt>602</decideCnt>
+                <examCnt>8057</examCnt>
+                <seq>46</seq>
+                <stateDt>20200223</stateDt>
+                <stateTime>16:00</stateTime>
+                <updateDt>2020-02-23 17:05:12.12</updateDt>
+            </item>
+            <item>
+                <clearCnt>18</clearCnt>
+                <createDt>2020-02-22 17:00:28.28</createDt>
+                <deathCnt>2</deathCnt>
+                <decideCnt>433</decideCnt>
+                <examCnt>6037</examCnt>
+                <seq>44</seq>
+                <stateDt>20200222</stateDt>
+                <stateTime>16:00</stateTime>
+                <updateDt>2020-02-22 17:00:28.28</updateDt>
+            </item>
+            <item>
+                <clearCnt>17</clearCnt>
+                <createDt>2020-02-21 17:13:21.21</createDt>
+                <deathCnt>1</deathCnt>
+                <decideCnt>204</decideCnt>
+                <examCnt>3180</examCnt>
+                <seq>42</seq>
+                <stateDt>20200221</stateDt>
+                <stateTime>16:00</stateTime>
+                <updateDt>2020-02-21 17:13:21.21</updateDt>
+            </item>
+            <item>
+                <clearCnt>16</clearCnt>
+                <createDt>2020-02-20 17:12:33.33</createDt>
+                <deathCnt>1</deathCnt>
+                <decideCnt>104</decideCnt>
+                <examCnt>1860</examCnt>
+                <seq>39</seq>
+                <stateDt>20200220</stateDt>
+                <stateTime>16:00</stateTime>
+                <updateDt>2020-02-20 17:12:33.33</updateDt>
+            </item>
+            <item>
+                <clearCnt>16</clearCnt>
+                <createDt>2020-02-19 17:00:13.13</createDt>
+                <deathCnt>0</deathCnt>
+                <decideCnt>51</decideCnt>
+                <examCnt>1149</examCnt>
+                <seq>37</seq>
+                <stateDt>20200219</stateDt>
+                <stateTime>16:00</stateTime>
+                <updateDt>2020-02-19 17:00:13.13</updateDt>
+            </item>
+            <item>
+                <clearCnt>12</clearCnt>
+                <createDt>2020-02-18 16:42:00.00</createDt>
+                <deathCnt>0</deathCnt>
+                <decideCnt>31</decideCnt>
+                <examCnt>818</examCnt>
+                <seq>35</seq>
+                <stateDt>20200218</stateDt>
+                <stateTime>16:00</stateTime>
+                <updateDt>2020-02-18 16:42:00.00</updateDt>
+            </item>
+            <item>
+                <clearCnt>10</clearCnt>
+                <createDt>2020-02-17 16:50:47.47</createDt>
+                <deathCnt>0</deathCnt>
+                <decideCnt>30</decideCnt>
+                <examCnt>708</examCnt>
+                <seq>32</seq>
+                <stateDt>20200217</stateDt>
+                <stateTime>16:00</stateTime>
+                <updateDt>2020-02-17 16:50:47.47</updateDt>
+            </item>
+            <item>
+                <clearCnt>9</clearCnt>
+                <createDt>2020-02-16 16:57:02.02</createDt>
+                <deathCnt>0</deathCnt>
+                <decideCnt>29</decideCnt>
+                <examCnt>485</examCnt>
+                <seq>30</seq>
+                <stateDt>20200216</stateDt>
+                <stateTime>16:00</stateTime>
+                <updateDt>2020-02-16 16:57:02.02</updateDt>
+            </item>
+            <item>
+                <clearCnt>9</clearCnt>
+                <createDt>2020-02-15 17:00:21.21</createDt>
+                <deathCnt>0</deathCnt>
+                <decideCnt>28</decideCnt>
+                <examCnt>558</examCnt>
+                <seq>28</seq>
+                <stateDt>20200215</stateDt>
+                <stateTime>16:00</stateTime>
+                <updateDt>2020-02-15 17:00:21.21</updateDt>
+            </item>
+            <item>
+                <clearCnt>7</clearCnt>
+                <createDt>2020-02-14 17:16:19.19</createDt>
+                <deathCnt>0</deathCnt>
+                <decideCnt>28</decideCnt>
+                <examCnt>535</examCnt>
+                <seq>26</seq>
+                <stateDt>20200214</stateDt>
+                <stateTime>16:00</stateTime>
+                <updateDt>2020-02-14 17:16:19.19</updateDt>
+            </item>
+            <item>
+                <clearCnt>7</clearCnt>
+                <createDt>2020-02-13 17:09:07.07</createDt>
+                <deathCnt>0</deathCnt>
+                <decideCnt>28</decideCnt>
+                <examCnt>562</examCnt>
+                <seq>24</seq>
+                <stateDt>20200213</stateDt>
+                <stateTime>16:00</stateTime>
+                <updateDt>2020-02-13 17:09:07.07</updateDt>
+            </item>
+            <item>
+                <clearCnt>7</clearCnt>
+                <createDt>2020-02-12 16:56:47.47</createDt>
+                <deathCnt>0</deathCnt>
+                <decideCnt>28</decideCnt>
+                <examCnt>785</examCnt>
+                <seq>22</seq>
+                <stateDt>20200212</stateDt>
+                <stateTime>16:00</stateTime>
+                <updateDt>2020-02-12 16:56:47.47</updateDt>
+            </item>
+            <item>
+                <clearCnt>4</clearCnt>
+                <createDt>2020-02-11 17:09:25.25</createDt>
+                <deathCnt>0</deathCnt>
+                <decideCnt>28</decideCnt>
+                <examCnt>762</examCnt>
+                <seq>20</seq>
+                <stateDt>20200211</stateDt>
+                <stateTime>16:00</stateTime>
+                <updateDt>2020-02-11 17:09:25.25</updateDt>
+            </item>
+            <item>
+                <clearCnt>3</clearCnt>
+                <createDt>2020-02-10 17:03:49.49</createDt>
+                <deathCnt>0</deathCnt>
+                <decideCnt>27</decideCnt>
+                <examCnt>531</examCnt>
+                <seq>18</seq>
+                <stateDt>20200210</stateDt>
+                <stateTime>16:00</stateTime>
+                <updateDt>2020-02-10 17:03:49.49</updateDt>
+            </item>
+        </items>
+        <numOfRows>25</numOfRows>
+        <pageNo>1</pageNo>
+        <totalCount>30</totalCount>
+    </body>
+</response>
